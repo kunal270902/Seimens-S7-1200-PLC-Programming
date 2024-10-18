@@ -1,7 +1,7 @@
 from pyModbusTCP.client import ModbusClient
 
 # Define the Modbus server IP and port
-PLC_IP = '192.168.0.1'  # Update to your PLC's IP
+PLC_IP = 'xxx.xxx.xxx.xxx'  # Update to your PLC's IP
 PLC_PORT = 502          # Default Modbus TCP port
 
 # Create a Modbus client
